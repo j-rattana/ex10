@@ -76,6 +76,18 @@ strong {
   font-weight: bold;
 }
 
+.jump { 
+  width: 70vw; 
+  position: sticky; 
+  top: 200px;
+} 
+  
+.sticky { 
+  height: 150px; 
+  width: auto; 
+  float: right;
+}
+
 .jack {
   text-align: right;
   font-style: italic;
