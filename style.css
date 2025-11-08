@@ -3,3 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html, body {
+  html, body {
+  background: #071421;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  color: #dcecff;
+  line-height: 1.5;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #0a1b2e;
+  padding: 1rem 2rem;
+  z-index: 10;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
