@@ -56,3 +56,27 @@ h1 {
   margin-bottom: 1.5rem;
   letter-spacing: 1px;
 }
+
+.story {
+  margin-top: 2.5rem;
+  line-height: 1.65;
+  text-align: justify;
+}
+.story p {
+  margin-bottom: 1rem;
+}
+
+em {
+  color: #43afe0;
+  font-style: italic;
+}
+
+strong {
+  color: #c21048;
+  font-weight: bold;
+}
+
+.jack {
+  text-align: right;
+  font-style: italic;
+}
