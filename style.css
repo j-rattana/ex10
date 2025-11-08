@@ -24,3 +24,20 @@ header {
   letter-spacing: 2px;
 }
 
+header nav {
+  text-align: right;
+}
+
+.brand {
+  float: left;
+  font-weight: bold;
+}
+
+header nav a {
+  text-decoration: none;
+  color: #a8d5ff;
+  margin-left: 1.2rem;
+}
+header nav a:hover {
+  color: #fff;
+}
